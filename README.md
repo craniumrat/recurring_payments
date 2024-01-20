@@ -1,13 +1,21 @@
-# Bank transferences payment gateway
+# Set up recurring payments for a single course
 
-Tihs plugin, is a moodle payment gateway that provides support to payments made by bank transferences, or another manual payment methods that need to be approved by a person.
-This plugin is developed by UNESCO-IESALC for their campus moodle platform. https://campus.iesalc.unesco.org/
+Tihs plugin, is a moodle payment gateway that provides support for recurring payments made manually that need to be approved by a person.
+This plugin is based on the paygw_bank  developed by UNESCO-IESALC for their campus moodle platform. https://campus.iesalc.unesco.org/
 
 
 ## Instalation.
 
-This plugin is tested in moodle 3.11 and 4.0.
+This plugin is tested in moodle on 4.0.2.
 
+## TODO: Add instructions. 
+
+## TODO: Add Global Configuration.
+
+## TODO: Add future work
+Add UPI payments 
+
+## TODO: I LEFT THE REST OF THE ORIGINAL TO REMEMBER WHAT TO UPDATE
 Just like another plugin, you can install from the Moodle plugins directory.   https://moodle.org/plugins/paygw_bank
 You can also download the zip in the releases section and install directly in "Site administration ">Plugins >"Install plugins"
 
